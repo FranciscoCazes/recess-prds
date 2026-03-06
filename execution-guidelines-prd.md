@@ -239,6 +239,19 @@ Content marked ⚙️ is conditional — toggled on/off per campaign.
 | TikTok | Brand handle |
 | Twitter/X | Brand handle + RECESS |
 
+- **Posting timeline (🔒 fixed guidance):**
+  - **3–7 days before event:** 2–3 teaser/hype posts
+  - **Day-of (first 30 min):** 1 live Story minimum
+  - **Day-of (midpoint):** 1 CTA reminder if activation goal is survey responses or redemptions
+  - **1–3 days after:** Recap post within 48 hours of event
+
+- **Activation goal determines what you post.** Look to your Recess Omni Channel offer for which platforms are required. Default goal if unsure: Brand Awareness.
+  - Survey responses → CTA-driven content with survey link in every post; Stories with link sticker
+  - Redemptions / rebates → Clear redemption instructions; save-able posts with offer details
+  - Brand awareness → Lifestyle content; crowd/energy shots; branded moments
+  - Social engagement → Interactive content (polls, Q&A); real reactions; repostable moments
+  - Foot traffic → Location-tagged pre-event hype; specific venue info
+
 **🔒 Signage (fixed structure, variable link):**
 - "Please print (in full color) and display the 8.5x11 creative linked [HERE] and ensure it is clearly visible and placed in your sampling area."
 - ⚙️ If pull-up banner provided: "Display prominently. Encourage participants to engage with the banner/signage and scan the QR code."
@@ -252,12 +265,35 @@ Content marked ⚙️ is conditional — toggled on/off per campaign.
 - Payment will not be issued for recaps not submitted within the deadline
 - ⚙️ Survey link — included only if provided by brand
 
-**🔄 Photos requested:**
-- People holding or interacting with the product ⚙️ and/or promo cards (solo + group shots)
-- The setup featuring brand collateral/signages/banners
-- Avoid photos showing multiple or excess products being handed out
+**🔒 Photo Requirements — capture all six shot types:**
+1. Wide venue/setup shot (before crowds arrive)
+2. Product display close-up (branding visible)
+3. Crowd energy shot (candid, not posed)
+4. Genuine reaction moment (someone trying the product for the first time)
+5. Branded touchpoint (signage, banner, merch)
+6. Behind-the-scenes (team in action)
+⚙️ If promo cards: people interacting with product AND promo cards
+
+**🔒 Photo standards (fixed):**
+- Use natural lighting — skip dark or blurry shots
+- Shoot vertical for Stories/Reels (9:16)
+- Recess branding must be visible in at least one image per post
+
+**🔒 Avoid:**
+- Posed shots of someone holding the product and smiling at camera
+- Dark, blurry, or poorly lit content
+- Content with no Recess branding visible
+- Photos showing excess inventory being handed out
 
 ---
+
+**🔒 Pre-Publish Social Media QA (fixed — organizer runs before posting):**
+- All links work and go to the correct destination
+- Copy has no typos and has correct event details (date, time, location)
+- Recess branding is visible in the content
+- Hashtags and tags are correct
+- FTC disclosure included if this is sponsored content
+- Post scheduled for the right date/time
 
 **🔒 ACTION ITEMS (fixed — identical across all campaigns):**
 1. Confirm once your product shipment arrives
@@ -342,16 +378,20 @@ This gives reviewers the right reference at the right moment without replacing h
 
 | Requirement | Required? | Verified? |
 |-------------|-----------|-----------|
-| Min. 5 photos submitted | ✅ | ☐ |
-| Product display photo included | ✅ | ☐ |
-| Branded setup photo included | ✅ | ☐ |
-| Attendee interaction photo included | ✅ | ☐ |
+| Min. 5 photos submitted (6-shot list) | ✅ | ☐ |
+| Wide venue/setup shot included | ✅ | ☐ |
+| Product display close-up included | ✅ | ☐ |
+| Crowd energy shot included (candid) | ✅ | ☐ |
+| Genuine reaction moment captured | ✅ | ☐ |
+| Branded touchpoint photo included | ✅ | ☐ |
+| No posed product-holding shots | ✅ | ☐ |
 | No excess inventory visible in photos | ✅ | ☐ |
+| Recess branding visible in at least one photo | ✅ | ☐ |
+| Social post submitted with correct tags/hashtags | ⚙️ If required | ☐ |
 | Survey link promoted | ⚙️ If required | ☐ |
-| Social post submitted | ⚙️ If required | ☐ |
 | Promo card distributed with product | ⚙️ If required | ☐ |
-| Recap submitted within 5 days | ✅ | ☐ |
 | Pull-up banner displayed | ⚙️ If required | ☐ |
+| Recap submitted within 5 days | ✅ | ☐ |
 
 - Non-compliant items flagged → can trigger follow-up before payment is released
 - Compliance data stored per organizer per campaign for tracking over time
@@ -461,6 +501,18 @@ These examples illustrate how the same template adapts across different campaign
 
 ---
 
+---
+
+## 16. Related Resources
+
+| Resource | Purpose |
+|----------|---------|
+| **Recess Digital Playbook** | Full content creation reference for organizers — social media templates, posting timelines, platform specs, shot guidance, brand voice standards, and internal review process |
+| **Master Advance (Google Sheet)** | Source of truth for accepted offers and EG sent status — dedicated PRD coming separately |
+| **Recap Review SOP** | General standards for reviewing submitted recaps — to be linked to campaign-specific compliance checklist in Phase 3 |
+
+---
+
 *PRD v2 — updated 2026-03-06*
 *Based on real execution guideline examples: Get Joy, Just Made, Nerds campaigns*
-*Incorporating Notion V2 edits and session feedback*
+*Incorporating Notion V2 edits, session feedback, and Recess Digital Playbook (Deuce)*
